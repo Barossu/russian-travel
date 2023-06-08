@@ -10,6 +10,7 @@
   .places__title{
     font-size: 43px;
     line-height: 46px;
+    width: calc(100% - 2px);
   }
 }
 
